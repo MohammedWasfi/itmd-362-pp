@@ -18,10 +18,13 @@ body {
 }
 
 ol {
-  padding-bottom: 1.125em;
-  list-style-type: decimal;
+  list-style-type: disc;
 }
 
 li {
   padding-bottom: 1.125em;
+}
+
+#submit:hover {
+  color: blue;
 }
