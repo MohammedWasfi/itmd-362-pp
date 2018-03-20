@@ -17,7 +17,8 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
 - Your Palette URL: http://paletton.com/#uid=55j0b0kw6p+Yn++00EZOrgdodia
-- Your Rationale:
+- Your Rationale: I have been to the Botanical Gardens many time before. And most of the colors that you see are watermelon color-ish. That was the idea I had when starting this Palette. I decided to leave the green out and focus more on the
+maroon/pink/purple colors and shades. These are the colors you see most often in the Botanic Gardens and I felt it would be an accurate representation of it and give the reader a feel of what website is all about and how it relates to the topic. The white color will be mostly used for text.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
@@ -30,4 +31,6 @@ by showing them something fun.
 4. A custom color palette for advertising a course on cybersecurity
 
 - Your Palette URL: http://paletton.com/#uid=a3M3F0ktA7Q00Bh++SdEznI5600
-- Your Rationale:
+- Your Rationale: When I hear the word cybersecurity the color blue always comes to mind. If you were to google "cybersecurity" most of the images will contain the color blue. It is fair to say the cybersecurity is represented with the color blue. That's
+why I decided on these shades of blue for the advertisement as I feel it is the best representation for it. I included a very small different shade of blue that is hardly noticeable that could be used for a text box or just a note in general that you can
+put on the side.
